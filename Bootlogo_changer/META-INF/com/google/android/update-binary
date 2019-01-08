@@ -1,0 +1,48 @@
+#!/sbin/sh
+
+OUTFD=$2
+ZIP=$3
+
+ui_print() {
+  echo -n -e "ui_print $1\n" > /proc/self/fd/$OUTFD
+  echo -n -e "ui_print\n" > /proc/self/fd/$OUTFD
+}
+
+cd /tmp
+rm -rf devildipan
+mkdir devildipan
+cd devildipan
+unzip -o "$ZIP"
+ui_print "###  Boot Logo Changer By @devildipan for On8 2016  ###"
+ui_print " - mounting data partition"
+mount /data
+
+if [ ! -e /data/media/0/PARAM.bak ]; then
+	ui_print " - backing up current PARAM to /sdcard/PARAM.bak"
+	cat /dev/block/platform/13540000.dwmmc0/by-name/PARAM > /data/media/0/PARAM.bak
+	chown 1023:1023 /data/media/0/PARAM.bak
+	chmod 664 /data/media/0/PARAM.bak
+fi
+
+ui_print " - installing new logo.jpg"
+chmod 755 tar
+mkdir tartemp
+cd tartemp
+/tmp/devildipan/tar -xf /dev/block/platform/13540000.dwmmc0/by-name/PARAM
+cp /tmp/devildipan/logo.jpg .
+chown root:root *
+chmod 444 logo.jpg
+touch *
+/tmp/devildipan/tar -pcvf ../new.tar *
+cd ..
+cat new.tar > /dev/block/platform/13540000.dwmmc0//by-name/PARAM
+
+ui_print " - Unmounting partition /data"
+umount /data > /dev/null 2>&1
+
+ui_print " "
+ui_print "Finished"
+ui_print "###  Developer Dipan Nanda  ###"
+cd /
+rm -rf /tmp/devildipan
+sync
