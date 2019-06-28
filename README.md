@@ -15,3 +15,7 @@ This is submitted under the purpose of developement on other soc devices.
 
 ## Future Use
 This can be used in future samsung socs simply by modifying the pixel and chipset values.
+
+
+## Checkout the XDA Page
+[The page](https://forum.xda-developers.com/galaxy-j7/how-to/exynos-7580-bootlogo-changer-on8-t3887654#post78619341)
