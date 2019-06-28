@@ -4,3 +4,15 @@
   NOT work on any phone and dont use it without any knowledge of this as it can
   and would brick your phone but it would work on phones of same resoultion but,
   non-treble phones.
+
+
+## License
+
+### This is under the Unlicense
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://github.com/DevilDipan/Bootlogo_Changer_On8/blob/master/LICENSE)
+
+## Purpose
+This is submitted under the purpose of developement on other soc devices.
+
+## Future Use
+This can be used in future samsung socs simply by modifying the pixel and chipset values.
