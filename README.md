@@ -18,4 +18,4 @@ This can be used in future samsung socs simply by modifying the pixel and chipse
 
 
 ## Checkout the XDA Page
-[This is a closed thread](https://forum.xda-developers.com/galaxy-j7/how-to/exynos-7580-bootlogo-changer-on8-t3887654#post78619341)
+[This is the latest page with all bugs removed](https://forum.xda-developers.com/galaxy-j7/how-to/exynos-7580-bootlogo-changer-on8-t3887654#post78619341)
