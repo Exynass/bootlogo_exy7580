@@ -1,10 +1,9 @@
 # Bootlogo Changer On8
-  Based on some previous works done by my dev friends on xda.
-  This is bootlogo changer for On8 or BootScreen Changer for On8 this would 
-  NOT work on any phone and dont use it without any knowledge of this as it can
-  and would brick your phone but it would work on phones of same resoultion but,
-  non-treble phones.
-
+ Based on some previous works done by my dev friends on xda.
+ This is bootlogo changer for On8 or BootScreen Changer for On8 this would 
+ NOT work on any other phone, without modifications and dont use it without any knowledge of this as it can
+ and will brick your phone but it will work on any other phones of same resoultion but,
+ non-treble phones(not tested on treble devices if ever tested please inform me).
 
 ## License
 
