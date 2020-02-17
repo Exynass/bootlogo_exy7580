@@ -1,5 +1,5 @@
 ![php-catonline](https://raw.githubusercontent.com/DevilDipan/Bootlogo_Changer_On8/master/logo.png) <br><br>
- This is bootlogo changer for On8 or BootScreen Changer for On8 this might NOT work on any other phone. <br>
+BootScreen Changer for On8, might NOT work on any other devices. <br>
  
  ![Test Status](https://github.com/gobuffalo/tags/workflows/Tests/badge.svg)
  ![Build Passing](https://api.travis-ci.org/php/php-src.svg?branch=master)
