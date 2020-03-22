@@ -13,6 +13,15 @@ BootScreen Changer for On8, might NOT work on any other devices. <br>
   <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/firelogo.jpg" width="285" />
   <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/originallatest.jpg" width="285" /> 
   <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/originalmod.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/antman.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/darklord.jpg" width="285" /> 
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/deadpool.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/groot.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/groot2.jpg" width="285" /> 
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/ironman.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/panther.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/spiderman.jpg" width="285" /> 
+  <img src="https://github.com/DevilDipan/bootlogo_samsung_j7xlte/blob/master/bootlogo(s)/spiderman2.jpg" width="285" />
 </p>
 
 ## Device : Samsung Galaxy On8
